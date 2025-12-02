@@ -2,9 +2,11 @@
 
 O Supremo CRM é uma plataforma moderna e responsiva desenvolvida para imobiliárias que desejam oferecer uma experiência digital elegante, clara e eficiente aos seus clientes. O projeto apresenta uma interface de alta qualidade, com foco em usabilidade, velocidade e design premium.
 
+
 🚀 Objetivo
 
 Oferecer uma solução completa para apresentação e busca de imóveis, proporcionando ao usuário uma navegação intuitiva e ao mesmo tempo valorizando o portfólio da imobiliária.
+
 
 ✨ Principais Recursos
 
@@ -29,6 +31,7 @@ Blocos de Ação
 Footer Completo
 Informações institucionais, redes sociais, navegação e endereços.
 
+
 📱 Totalmente Responsivo
 
 Cada componente foi cuidadosamente ajustado para garantir a melhor experiência em:
@@ -41,6 +44,7 @@ Tablet
 
 Smartphones (incluindo telas muito pequenas)
 
+
 🛠️ Tecnologias Utilizadas
 
 HTML5
@@ -52,6 +56,7 @@ Bootstrap 5
 Font Awesome
 
 Imagens otimizadas
+
 
 🎯 Resultado
 
